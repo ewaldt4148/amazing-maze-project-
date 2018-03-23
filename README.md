@@ -1,1 +1,1 @@
-# amazing-maze-project-
+# maze
